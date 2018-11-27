@@ -1,0 +1,5 @@
+#!/bin/sh
+echo
+echo "WELCOME         Container for use in Security Lab"
+echo "WARNING         This container will self destroy at the end of this lab session."
+echo
